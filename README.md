@@ -1,5 +1,2 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
-
-DO NOT LEAVE IT LIKE THIS!!!
-
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+# Simple test of scriptable object.
+Made a player data scriptable object which has health information and location information. Modified text on canvas to follow these behaviors.
